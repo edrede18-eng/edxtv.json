@@ -41,15 +41,15 @@
       "url": "https://www.youtube.com/watch?v=zS1P8-qD_RE",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
-    {
-      "titulo": "Pica-pau 2",
-      "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
-      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
+   {
+      "titulo": "Pica-Pau Clássico",
+      "youtube_id": "zS1P8-qD_RE",
+      "capa": "https://img.youtube.com/vi/zS1P8-qD_RE/maxresdefault.jpg"
     },
     {
-    "titulo": "Pica-Pau Clássico",
-    "url": "https://www.youtube.com/embed/zS1P8-qD_RE",
-    "capa": "https://img.youtube.com/vi/zS1P8-qD_RE/maxresdefault.jpg"
+      "titulo": "Desenho 2",
+      "youtube_id": "9bZkp7q19f0",
+      "capa": "https://img.youtube.com/vi/9bZkp7q19f0/maxresdefault.jpg"
     }
   ]
 }
