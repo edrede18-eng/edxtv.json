@@ -6,9 +6,7 @@
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp"
     }
   ],
-
-  
- "filmes": [
+  "filmes": [
     {
       "titulo": "Classique TV",
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
@@ -20,8 +18,6 @@
       "capa": "https://via.placeholder.com/300x450.png?text=Tv+Classicos"
     }
   ],
-
-  
   "desenhos": [
     {
       "titulo": "Desenhos Clássicos",
@@ -33,5 +29,5 @@
       "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp"
     }
-  ],
+  ]
 }
