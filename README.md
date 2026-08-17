@@ -31,50 +31,25 @@
     },
     {
       "titulo": "Pluto TV Anime",
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/5f21a424e83b4b00078864f1/master.m3u8?advertisingId=&deviceAdId=&deviceId=unknown&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&pluginName=unknown&pluginVersion=1.0&runtime=unknown&session=unknown&userAgent=unknown",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/5f21a424e83b4b00078864f1/master.m3u8",
       "capa": "https://images.pluto.tv/channels/5f21a424e83b4b00078864f1/featuredImage.jpg"
     }
   ],
-    "youtube": [
+  "youtube": [
     {
-      "titulo": "Pica-pau",
-      "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
+      "titulo": "Pica-pau 1",
+      "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
     {
-      "titulo": "Video do Youtube",
-      "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
-     "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
+      "titulo": "Pica-pau 2",
+      "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
     {
-    "titulo": "Video do Youtube",
-    "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
-    "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
+      "titulo": "Pica-pau 3",
+      "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
