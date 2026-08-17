@@ -47,9 +47,9 @@
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
     {
-      "titulo": "Pica-pau 3",
-      "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
+    "titulo": "Pica-Pau Clássico",
+    "url": "https://www.youtube.com/embed/zS1P8-qD_RE",
+    "capa": "https://img.youtube.com/vi/zS1P8-qD_RE/maxresdefault.jpg"
     }
   ]
 }
