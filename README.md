@@ -34,5 +34,47 @@
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/5f21a424e83b4b00078864f1/master.m3u8?advertisingId=&deviceAdId=&deviceId=unknown&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&pluginName=unknown&pluginVersion=1.0&runtime=unknown&session=unknown&userAgent=unknown",
       "capa": "https://images.pluto.tv/channels/5f21a424e83b4b00078864f1/featuredImage.jpg"
     }
+  ],
+    "desenhos": [
+    {
+      "titulo": "Pica-pau",
+      "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
+      "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+    },
+    {
+      "titulo": "Video do Youtube",
+      "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
+     "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+    },
+    {
+    "titulo": "Video do Youtube",
+    "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
+    "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+    }
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
