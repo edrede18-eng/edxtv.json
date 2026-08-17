@@ -33,5 +33,5 @@
       "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp"
     }
-  ]
+  ],
 }
