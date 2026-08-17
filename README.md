@@ -28,6 +28,11 @@
       "titulo": "Web Tv Xtreme",
       "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp"
+    },
+    {
+      "titulo": "Pluto TV Anime",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/5f21a424e83b4b00078864f1/master.m3u8?advertisingId=&deviceAdId=&deviceId=unknown&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&pluginName=unknown&pluginVersion=1.0&runtime=unknown&session=unknown&userAgent=unknown",
+      "capa": "https://images.pluto.tv/channels/5f21a424e83b4b00078864f1/featuredImage.jpg"
     }
   ]
 }
