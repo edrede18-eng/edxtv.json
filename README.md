@@ -1,11 +1,23 @@
 {
   "tv": [
-    {"titulo": "Canal 1", "url": "http://link.m3u8", "capa": "http://link.jpg"}
+    {
+      "titulo": "Globo",
+      "url": "https://seu-link-m3u8.com/playlist.m3u8",
+      "capa": "https://img.com/capa-globo.jpg"
+    }
   ],
   "filmes": [
-    {"titulo": "Filme 1", "url": "http://link.mp4", "capa": "http://link.jpg"}
+    {
+      "titulo": "Filme Exemplo",
+      "url": "https://seu-link-mp4.com/filme.mp4",
+      "capa": "https://img.com/capa-filme.jpg"
+    }
   ],
   "desenhos": [
-    {"titulo": "Desenho 1", "url": "http://link.mp4", "capa": "http://link.jpg"}
+    {
+      "titulo": "Pica-pau",
+      "url": "https://seu-link.com/desenho.mp4",
+      "capa": "https://img.com/capa-desenho.jpg"
+    }
   ]
 }
