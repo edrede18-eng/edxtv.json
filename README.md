@@ -35,16 +35,16 @@
       "capa": "https://images.pluto.tv/channels/5f21a424e83b4b00078864f1/featuredImage.jpg"
     }
   ],
-    "desenhos": [
+    "youtube": [
     {
       "titulo": "Pica-pau",
       "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
-      "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+      "capa": "https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg"
     },
     {
       "titulo": "Video do Youtube",
       "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
-     "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+     "capa": "https://img.youtube.com/vi/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQLqh9bBsEYluoec4LiDpIUoShR74jJBkJC4_jVjMiwrXD1kip7Sas4o&s/maxresdefault.jpg"
     },
     {
     "titulo": "Video do Youtube",
