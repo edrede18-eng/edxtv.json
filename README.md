@@ -2,7 +2,7 @@
   "tv": [
     {
       "titulo": "NASA TV",
-      "url": "https://ntv1.akamaized.net/hls/live/2014533/NASA-NTV1-HLS/master.m3u8",
+      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
       "capa": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg"
     }
   ],
