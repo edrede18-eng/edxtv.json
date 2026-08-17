@@ -6,13 +6,22 @@
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp"
     }
   ],
+
+  
   "filmes": [
     {
-      "titulo": "Exemplo Filme HLS",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "titulo": "Classique TV",
+      "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+      "capa": "https://via.placeholder.com/300x450.png?text=FILME+HLS"
+    }
+      {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
       "capa": "https://via.placeholder.com/300x450.png?text=FILME+HLS"
     }
   ],
+
+  
   "desenhos": [
     {
       "titulo": "Exemplo Desenho HLS",
