@@ -8,16 +8,16 @@
   ],
 
   
-  "filmes": [
+ "filmes": [
     {
       "titulo": "Classique TV",
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-      "capa": "https://via.placeholder.com/300x450.png?text=FILME+HLS"
+      "capa": "https://via.placeholder.com/300x450.png?text=Classique+TV"
     },
-      {
+    {
       "titulo": "Tv Clássicos",
       "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
-      "capa": "https://via.placeholder.com/300x450.png?text=FILME+HLS"
+      "capa": "https://via.placeholder.com/300x450.png?text=Tv+Classicos"
     }
   ],
 
