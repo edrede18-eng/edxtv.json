@@ -39,17 +39,17 @@
     {
       "titulo": "Pica-pau",
       "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
-      "capa": "https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg"
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
     {
       "titulo": "Video do Youtube",
-      "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
-     "capa": "https://img.youtube.com/vi/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQLqh9bBsEYluoec4LiDpIUoShR74jJBkJC4_jVjMiwrXD1kip7Sas4o&s/maxresdefault.jpg"
+      "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
+     "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
     {
     "titulo": "Video do Youtube",
     "url": "https://www.youtube.com/watch?v=mRe-514tG9A",
-    "capa": "https://img.youtube.com/vi/COLOCAR_ID_AQUI/maxresdefault.jpg"
+    "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     }
   ]
 }
