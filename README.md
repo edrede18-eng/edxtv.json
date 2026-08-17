@@ -24,9 +24,14 @@
   
   "desenhos": [
     {
-      "titulo": "Exemplo Desenho HLS",
-      "url": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-911d-472c-8b5b-f3bc0d00d491.m3u8",
-      "capa": "https://via.placeholder.com/300x450.png?text=DESENHO+HLS"
+      "titulo": "Desenhos Clássicos",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp"
+    },
+    {
+      "titulo": "Web Tv Xtreme",
+      "url": "https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp"
     }
   ]
 }
