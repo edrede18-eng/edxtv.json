@@ -6,9 +6,9 @@
       "capa": "https://logodownload.org/wp-content/uploads/2018/01/tv-brasil-logo.png"
     },
     {
-      "titulo": "NASA TV (Inglês)",
-      "url": "https://ntv1.akamaized.net/hls/live/2014533/NASA-NTV1-HLS/master.m3u8",
-      "capa": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg"
+      "titulo": "Pluto TV Cine Sucessos",
+  "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/605d045864303c0007204f14/master.m3u8?advertisingId=&deviceAdId=&deviceId=unknown&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&pluginName=unknown&pluginVersion=1.0&runtime=unknown&session=unknown&userAgent=unknown",
+  "capa": "https://images.pluto.tv/channels/605d045864303c0007204f14/featuredImage.jpg"
     }
   ],
   "filmes": [
