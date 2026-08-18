@@ -34,5 +34,5 @@
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/v1/master/5f21a424e83b4b00078864f1/master.m3u8",
       "capa": "https://images.pluto.tv/channels/5f21a424e83b4b00078864f1/featuredImage.jpg"
     }
-  ],
+  ]
 }
