@@ -10,7 +10,7 @@
     {
       "titulo": "Classique TV",
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
-      "capa": "https://via.placeholder.com/300x450.png?text=Classique+TV"
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp"
     },
     {
       "titulo": "Tv Clássicos",
