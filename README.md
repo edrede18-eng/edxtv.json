@@ -60,6 +60,11 @@ OS DETETIVES",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865",
       "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_gRSUcBB9I7t7rFrG6WZZyuneSca8KSG8szX83a7bZAUAY4BsHvI2FkThIxP4a2XTjnw6wbE0aKsWzI9jvUdCTacw0Ehv0s-h1qq7fD6ST_4v7Cux9pVyQKqh5xj6FHsTStVEuc33Hvaq-zlEBR5SFBY5Zg3ey4AKOvRXvFCAUYgLLx0_0yfhzwDSz4/s200/RUNTIME.webp"
     },
+           {
+      "titulo": "RUNTIME",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153",
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_gRSUcBB9I7t7rFrG6WZZyuneSca8KSG8szX83a7bZAUAY4BsHvI2FkThIxP4a2XTjnw6wbE0aKsWzI9jvUdCTacw0Ehv0s-h1qq7fD6ST_4v7Cux9pVyQKqh5xj6FHsTStVEuc33Hvaq-zlEBR5SFBY5Zg3ey4AKOvRXvFCAUYgLLx0_0yfhzwDSz4/s200/RUNTIME.webp"
+    },
       {
       "titulo": "MovieSphere",
       "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
