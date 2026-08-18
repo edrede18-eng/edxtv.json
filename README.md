@@ -4,7 +4,12 @@
       "titulo": "Record",
       "url": "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist.m3u8",
       "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tNFiMv5vshJ_IjZXu3ydk9Hjkrvd7oBxs2Kb-poqWQ5Ms1b0X0fHxm9AXa-kGfQ6WxX8_MV1_0W1ATplL4NAmreKEEvSuZUTJWnrocOzVMr1Zmu5qwlaxfjcDTiEgvy-j6I7Vm_Jik52GtEipuA0ToJ2Fhbi2HWsQKoHIL6saYsw982GlfT_Tr-rfqGp/s512/01.png"
-    }
+    },
+    {
+      "titulo": "Record",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJAxyVsGhfgDulnNYaDE5zN4foqkYY5IPYXiXY-NF7h2863ehmCR4T7GW13Xb4OwuezAxOM7Av9KNRIc03iKvC4vIMjuxA0yq8o43lsyS7Q4uldBvJ9wcmKA1q1QLyScpMobBFQI9zqLMe8_-ADu-1h5WsuFBLdMoFRHFD9suRE4HJ7rK6-8_vpgFI3NU/s200/SBT.webp"
+    }    
   ],
   "filmes": [
     {
