@@ -58,17 +58,17 @@ OS DETETIVES",
        {
       "titulo": "RUNTIME CINE ESPANTO",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865",
-      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_gRSUcBB9I7t7rFrG6WZZyuneSca8KSG8szX83a7bZAUAY4BsHvI2FkThIxP4a2XTjnw6wbE0aKsWzI9jvUdCTacw0Ehv0s-h1qq7fD6ST_4v7Cux9pVyQKqh5xj6FHsTStVEuc33Hvaq-zlEBR5SFBY5Zg3ey4AKOvRXvFCAUYgLLx0_0yfhzwDSz4/s200/RUNTIME.webp"
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_hMPITBFMmWWtsF8Px-y9z5YSNiE_wEttGQCy99cpok9jLfUw07X18mt_m9fyKzmf4AGAKnEiRl6T5e-FjABm-aUXEZaKeNLBzVta35bh5GxbL5sa1kva4FLgM_H7wRwZTkcObzaFmzdLWsWGgkNNm9surHEtRN-Hs97TenevL2BghBkZVLfHVGMyuQkD/s1920/runtime_cinespanto_16x9_1.jpg"
     },
            {
       "titulo": "RUNTIME",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153",
-      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_gRSUcBB9I7t7rFrG6WZZyuneSca8KSG8szX83a7bZAUAY4BsHvI2FkThIxP4a2XTjnw6wbE0aKsWzI9jvUdCTacw0Ehv0s-h1qq7fD6ST_4v7Cux9pVyQKqh5xj6FHsTStVEuc33Hvaq-zlEBR5SFBY5Zg3ey4AKOvRXvFCAUYgLLx0_0yfhzwDSz4/s200/RUNTIME.webp"
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYfPpOc60HzNLgOBKpOO5GV7RE35cq1g5K8VkFOIgbpLaoin7fSsQqr48bR1LLUeWweelHlR0ySpxxdsaA4SR66dZQnbarL8AxveezMkpGuitQwOpbgCUKRmvzUyhbhR_0LXoDxc15Di-oshStWoNQBziLRHpXhgggXrEME3gBYnQ4-pyptcUf-ZTbNBKs/s447/images.jpg"
     },
                {
       "titulo": "RUNTIME CRIME",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
-      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsfBSun1oIHbNwI9XcZSiuwL3Bs9fuGRL6Yrd1009YTDI9mPyp-Z2p6wMYlIe78vti7MYYk9zyCAExy2VliavxADap8oIvrC0Ci-lgyQ5kT45N-3LGADapyUhED3FrYm7rALNk2Ddfkw1kqPcOXoRitXAHRJ2qjnX1E1HrAvMIoHi-idm1-Vo9z0YWS19W/s92/download.jpg"
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6fWQp6zJpAYTtk7ZtGDn_MewYvQl1OdyLPSb6cPEGn4crLPOqkAdihJxLuDM4KZ2dTpM12mh4-cTtOXMCm-GJC8qzrleku0nL34hgfflt4KydIwRz8T5hWY-5XFBcTrBXjpkUuzJusW1uV4lrLPUOxRbrI8IcIJD9EbSwsG-3cFTNC0DEwkD-7aFxxSPr/s2000/runtime_crime_brazil_1400x2000.jpg"
     },
       {
       "titulo": "MovieSphere",
