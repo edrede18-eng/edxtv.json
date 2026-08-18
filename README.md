@@ -15,7 +15,7 @@
     {
       "titulo": "Tv Clássicos",
       "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
-      "capa": "https://via.placeholder.com/300x450.png?text=Tv+Classicos"
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
     }
   ],
   "desenhos": [
