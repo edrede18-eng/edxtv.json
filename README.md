@@ -22,6 +22,41 @@
       "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
     },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+       {
+      "titulo": "Tv Clássicos",
+      "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
       {
       "titulo": "MovieSphere",
       "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
