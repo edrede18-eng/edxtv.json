@@ -38,7 +38,7 @@
   "youtube": [
     {
       "titulo": "Pica-pau 1",
-      "url": "https://www.youtube.com/watch?v=zS1P8-qD_RE",
+      "url": "https://www.youtube.com/watch?v=bK03WDeq5SI",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51284eb9531d6a7d1759dbba3c7aaad6.webp"
     },
    {
