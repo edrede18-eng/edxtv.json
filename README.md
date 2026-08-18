@@ -65,6 +65,11 @@ OS DETETIVES",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153",
       "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6_gRSUcBB9I7t7rFrG6WZZyuneSca8KSG8szX83a7bZAUAY4BsHvI2FkThIxP4a2XTjnw6wbE0aKsWzI9jvUdCTacw0Ehv0s-h1qq7fD6ST_4v7Cux9pVyQKqh5xj6FHsTStVEuc33Hvaq-zlEBR5SFBY5Zg3ey4AKOvRXvFCAUYgLLx0_0yfhzwDSz4/s200/RUNTIME.webp"
     },
+               {
+      "titulo": "RUNTIME CRIME",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864",
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsfBSun1oIHbNwI9XcZSiuwL3Bs9fuGRL6Yrd1009YTDI9mPyp-Z2p6wMYlIe78vti7MYYk9zyCAExy2VliavxADap8oIvrC0Ci-lgyQ5kT45N-3LGADapyUhED3FrYm7rALNk2Ddfkw1kqPcOXoRitXAHRJ2qjnX1E1HrAvMIoHi-idm1-Vo9z0YWS19W/s92/download.jpg"
+    },
       {
       "titulo": "MovieSphere",
       "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
