@@ -1,9 +1,9 @@
 {
   "tv": [
     {
-      "titulo": "MovieSphere",
-      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
-      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp"
+      "titulo": "Record",
+      "url": "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist.m3u8",
+      "capa": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tNFiMv5vshJ_IjZXu3ydk9Hjkrvd7oBxs2Kb-poqWQ5Ms1b0X0fHxm9AXa-kGfQ6WxX8_MV1_0W1ATplL4NAmreKEEvSuZUTJWnrocOzVMr1Zmu5qwlaxfjcDTiEgvy-j6I7Vm_Jik52GtEipuA0ToJ2Fhbi2HWsQKoHIL6saYsw982GlfT_Tr-rfqGp/s512/01.png"
     }
   ],
   "filmes": [
@@ -16,6 +16,11 @@
       "titulo": "Tv Clássicos",
       "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
       "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp"
+    },
+      {
+      "titulo": "MovieSphere",
+      "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
+      "capa": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2112f7942be7a7bf3f4b41e082cee2b8.webp"
     }
   ],
   "desenhos": [
